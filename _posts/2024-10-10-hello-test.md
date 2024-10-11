@@ -24,4 +24,4 @@ print("Hello world")
 
 ```
 ## Photos
-![img-description](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)
+![img-description](https://link.storjshare.io/raw/jx2mocgib7l3redo7k5g5ai532rq/images/2024-10-10/Python-logo-notext.svg.png)
