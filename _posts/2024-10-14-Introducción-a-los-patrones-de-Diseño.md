@@ -1,7 +1,7 @@
 ---
 title: 'Introducción a los Patrones de Diseño: Mejora la Arquitectura de tu Software'
 date: 2024-10-14 12:35:00 -0500
-categories: [Patrones de Diseño]
+categories: [Patrones de Diseño, Teoría]
 tags: [Patrones de Diseño, Introducción, Teoría]
 ---
 
