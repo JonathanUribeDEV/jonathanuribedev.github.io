@@ -9,7 +9,7 @@ tags: [Patrones de Diseño, Introducción, Teoría]
 
 Como primer tema que me quiero tratar es sobre Patrones de Diseño, es un tema que marcó un antes y un después en la forma en la que debía afrontar y desarrollar software de calidad y mantenible. Debo decir que lo que más me llamó la atención de los patrones de diseño es el concepto de *patrón* en si y como muchos otros desarrolladores en otro momento ya habían encontrado soluciones optimas a problemas que aun eran nuevos para mí, y que de otra forma hubiese gastado valiosas horas en tratar de mantener un código, que aunque funcional, tendría una capa extra complejidad debido a su *falta de estructura*.
 
-Este blog tiene como objetivo, primero, presentar una introducción a los Patrones de Diseño y a su vez, definir un caso de uso en el que se estaré mostrando como se implementan los diferentes patrones de diseño.
+Este blog tiene como objetivo, primero, presentar una introducción a los Patrones de Diseño y a su vez, definir un caso de uso en el que estaré mostrando como se implementan los diferentes patrones de diseño.
 
 Para ello comencemos por el final y hablemos sobre el caso de Uso.
 
@@ -26,7 +26,7 @@ El caso de uso en el que estaremos trabajando es un **sistema de reserva de even
 - **Pagos** a través de distintos métodos (tarjeta de crédito, PayPal, criptomonedas).
 - **Gestión de eventos** por parte de los administradores.
 
-Mi intención es mostrar que los patrones de diseño pueden ser implementados indiferentemente del lenguaje de programación, ya que mas que unas líneas de código, es una estructura. Para ello se implementaran los ejemplos en **JavaScript**, **PHP**, y **Python**, siendo lenguajes más comúnmente usados.
+Mi intención es mostrar que los patrones de diseño pueden ser implementados indiferentemente del lenguaje de programación, ya que más que unas líneas de código, es una estructura. Para ello se implementaran los ejemplos en **JavaScript**, **PHP**, y **Python**, siendo lenguajes más comúnmente usados.
 
 ### Ejemplo de implementación:
 
