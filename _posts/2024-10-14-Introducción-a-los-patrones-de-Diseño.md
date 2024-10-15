@@ -7,7 +7,7 @@ tags: [Patrones de Diseño, Introducción, Teoría]
 
 ![https://link.storjshare.io/raw/jxlwtjckynhjcmnvflccgg3coukq/images/01/header.png](https://link.storjshare.io/raw/jxlwtjckynhjcmnvflccgg3coukq/images/01/header.png)
 
-Como primer tema que me quiero tratar es sobre Patrones de Diseño, es un tema que marcó un antes y un después en la forma en la que debía afrontar y desarrollar software de calidad y mantenible. Debo decir que lo que más me llamó la atención de los patrones de diseño es el concepto de *patrón* en si y como muchos otros desarrolladores en otro momento ya habían encontrado soluciones optimas a problemas que aun eran nuevos para mí, y que de otra forma hubiese gastado valiosas horas en tratar de mantener un código, que aunque funcional, tendría una capa extra complejidad debido a su *falta de estructura*.
+Como primer tema que quiero tratar es sobre Patrones de Diseño, es un tema que marcó un antes y un después en la forma en la que debía afrontar y desarrollar software de calidad y mantenible. Debo decir que lo que más me llamó la atención de los patrones de diseño es el concepto de *patrón* en si y como muchos otros desarrolladores en otro momento ya habían encontrado soluciones optimas a problemas que aun eran nuevos para mí, y que de otra forma hubiese gastado valiosas horas en tratar de mantener un código, que aunque funcional, tendría una capa extra complejidad debido a su *falta de estructura*.
 
 Este blog tiene como objetivo, primero, presentar una introducción a los Patrones de Diseño y a su vez, definir un caso de uso en el que estaré mostrando como se implementan los diferentes patrones de diseño.
 
